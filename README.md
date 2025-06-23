@@ -18,7 +18,7 @@ It uses *Java console input/output* and runs in a loop until the user exits.
 
 1. *Open Eclipse IDE*
 2. *Create a new Java Project*:  
-   File → New → Java Project → Name it as'Task1'
+   File → New → Java Project → Name it as 'Task1'
 3. *Create a new class*:  
    Right-click 'src' → New → Class → Name it as 'SimpleCalculator' and check "public static void main"
 4. *Write the code* in 'SimpleCalculator.java'
